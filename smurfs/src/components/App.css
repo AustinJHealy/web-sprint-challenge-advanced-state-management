@@ -1,3 +1,14 @@
 .App {
   text-align: center;
+  color: lightskyblue;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+input {
+  color: lightskyblue;
+  font-family: cursive;
+  border: 1px solid lightskyblue;
+}
+button {
+  color:lightskyblue;
+  border: 5px dotted lightskyblue
 }

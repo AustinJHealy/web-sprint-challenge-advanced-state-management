@@ -17,4 +17,4 @@ instead of an object.
 
 5. What is your favorite state management system you've learned and this sprint? Please explain why!
 
-I prefer Redux at the moment simply because I have learned more about it and I have more experience with it at this time but that could change. I think I may have to choose how to manage state on a case by case basis.
+I prefer Redux only because I have learned more about it than any other state manangement system and I have more experience with it at this time but that could change. I think in the future I may have to choose how to manage state on a case by case basis unless I'm given specific instructions.
